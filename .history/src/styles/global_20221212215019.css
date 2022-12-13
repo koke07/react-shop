@@ -1,0 +1,8 @@
+$base_color: #ffff;
+$color:rgba(black,0.88);
+
+
+body{
+    background-color: $base_color;
+    color: $color;
+}
